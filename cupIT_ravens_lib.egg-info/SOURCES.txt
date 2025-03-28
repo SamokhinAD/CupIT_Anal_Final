@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+CupIT_lib/__init__.py
+CupIT_lib/core.py
+cupIT_ravens_lib.egg-info/PKG-INFO
+cupIT_ravens_lib.egg-info/SOURCES.txt
+cupIT_ravens_lib.egg-info/dependency_links.txt
+cupIT_ravens_lib.egg-info/top_level.txt
+tests/test_core.py

@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: cupIT_ravens_lib
+Version: 0.1.0
+Summary: Библиотека CupIT final
+Home-page: https://github.com/SamokhinAD/CupIT_Anal_Final.git
+Author: ravens
+Author-email: antonsamoh0704@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: summary
+
+Р‘РёР±Р»РёРѕС‚РµРєР° С„СѓРЅРєС†РёР№ РґР»СЏ Р°РЅР°Р»РёР·Р° Р±Р°Р·С‹ РґР°РЅРЅС‹С… СЃС‚СЂР°С…РѕРІС‹С… РІС‹РїР»Р°С‚.
+
+Р§С‚РѕР±С‹ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Р±РёР±Р»РёРѕС‚РµРєСѓ, РІС‹РїРѕР»РЅРёС‚Рµ СЃР»РµРґСѓСЋС‰СѓСЋ РєРѕРјР°РЅРґСѓ РІ С‚РµСЂРјРёРЅР°Р»Рµ:
+
+pip install cupIT_ravens_lib
